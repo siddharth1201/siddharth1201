@@ -32,11 +32,14 @@
 
 #### 🛠️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF5733?style=for-the-badge&logo=chromadb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-008080?style=for-the-badge&logo=faiss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth1201&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth1201&layout=compact&theme=radical)
 
 ---
@@ -47,7 +50,7 @@
 - 🌎 Open to collaborations and innovative projects.
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharthverma7952a31a9/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
 
 ---
